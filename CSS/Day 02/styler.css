@@ -1,0 +1,39 @@
+span{
+    color:yellowgreen;
+}
+
+/* Universal Selector */
+/* *{
+    margin:0px;
+    padding: 0px;
+} */
+
+
+h1{
+    background-color: aqua;
+    height:50px;
+    width: 200px ;
+    border: 4px solid black;
+    padding: 5px;
+    margin: 40px;
+    box-sizing: content-box;
+    /* display: inline-block; */
+}
+
+h2{
+    background-color: lightcoral;
+    border: 4px solid black;
+    padding: 5px;
+    box-sizing: border-box;
+    /* display: inline-block; */
+}
+span{
+    background-color: black;
+    height: 200px;
+    width: 300px;
+    margin: 20px;
+    padding: 15px;
+}
+p{
+    
+}

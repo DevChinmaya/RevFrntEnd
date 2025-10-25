@@ -1,0 +1,81 @@
+h1{
+    background-color:pink;
+}
+
+ul{
+    background-color:lightgrey;
+}
+
+h2{
+    background-color: blue;
+}
+
+#first{
+    background-color: yellow;
+}
+#second{
+    background-color: goldenrod;
+}
+
+.third{
+    background-color: grey;
+}
+
+h1{
+    background-color: rgb(195, 46, 46);
+} 
+
+h2{
+    background-color: hsla(110, 50%, 50%, 0.7);
+}
+h3{
+    background-color: #31c2d8;
+}
+
+
+/* FONT */
+h3{
+    font-size: 20px;
+}
+
+html{
+    font-size: 20px;
+}
+/* Relative to root ele */
+h2{
+    font-size: rem; 
+}
+
+/* Relative to parent ele */    
+li{
+    font-size: em;
+}
+ul{
+    font-size: em;
+}
+
+/* Viewport width */
+h2{
+    font-size: 3vw;
+}
+
+/* Viewport height */
+h2{
+    font-size: 3vh;
+}
+
+/* Relative to parent ele */
+/* li{
+    font-size: 80%;
+}  */
+
+
+/* Font Family */
+h2{
+    font-family: "Roboto Condensed", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+}
+
+ 
